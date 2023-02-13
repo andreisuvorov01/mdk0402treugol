@@ -1,0 +1,8 @@
+D:\practice-c\test\treugolnik_mdk0402\treugolnik_mdk0402\bin\Debug\treugolnik_mdk0402.exe.config
+D:\practice-c\test\treugolnik_mdk0402\treugolnik_mdk0402\bin\Debug\treugolnik_mdk0402.exe
+D:\practice-c\test\treugolnik_mdk0402\treugolnik_mdk0402\bin\Debug\treugolnik_mdk0402.pdb
+D:\practice-c\test\treugolnik_mdk0402\treugolnik_mdk0402\obj\Debug\treugolnik_mdk0402.csproj.AssemblyReference.cache
+D:\practice-c\test\treugolnik_mdk0402\treugolnik_mdk0402\obj\Debug\treugolnik_mdk0402.csproj.SuggestedBindingRedirects.cache
+D:\practice-c\test\treugolnik_mdk0402\treugolnik_mdk0402\obj\Debug\treugolnik_mdk0402.csproj.CoreCompileInputs.cache
+D:\practice-c\test\treugolnik_mdk0402\treugolnik_mdk0402\obj\Debug\treugolnik_mdk0402.exe
+D:\practice-c\test\treugolnik_mdk0402\treugolnik_mdk0402\obj\Debug\treugolnik_mdk0402.pdb
